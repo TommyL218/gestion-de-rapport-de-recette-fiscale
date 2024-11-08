@@ -1,0 +1,25 @@
+.prevision-container {
+  padding: 20px;
+}
+
+.prevision-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.prevision-filters {
+  display: flex;
+  gap: 8px;
+  margin-right: 16px;
+}
+
+.export-buttons {
+  display: flex;
+  gap: 8px;
+}
+
+.title {
+  margin-bottom: 20px;
+}
